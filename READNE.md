@@ -18,4 +18,5 @@ console.log("这是一段js代码") ;
 [百度](https://www.baidu.com)
  
 这是一张来自fang的图片：
+
 ![Teacher_fang](fang.jpg)
